@@ -6,4 +6,4 @@ torchvision --index-url https://download.pytorch.org/whl/cpu
 numpy
 Pillow
 gunicorn
-eventlet==0.33.3
+eventlet>=0.35.2
